@@ -19,6 +19,19 @@
     <li>Postman</li>
 </ul>
 
+<h2>Rotas</h2>
+<h3>/products</h3>
+<ul>
+<li>via GET: lista todos os produtos cadastrados</li>
+<li>via POST: cadastra um novo produto </li>
+</ul>
+<h3>/products/{id}</h3>
+<ul>
+<li>via GET: lista o produto com id {id}</li>
+<li>via PUT: atualiza os dados do produto com id {id}</li>
+<li>via DELETE: deleta o produto com id {id}</li>
+</ul>
+
 
 
 
